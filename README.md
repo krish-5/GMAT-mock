@@ -27,7 +27,7 @@ The app is static, so any static host works.
 1. Open the repository settings, then *Pages*.
 2. Under *Build and deployment*, set *Source* to *Deploy from a branch*.
 3. Choose branch `main` and folder `/ (root)`, then save.
-4. The site is published at `https://krish-5.github.io/gmat-mock/`.
+4. The site is published at `https://krish-5.github.io/GMAT-mock/`.
 
 **Netlify or Vercel**
 Drag the folder in, or connect the repository. No build command is needed and the publish directory is the repository root.
